@@ -1,0 +1,4 @@
+[submodule "pytorch"]
+	path = pytorch
+	url = https://github.com/pytorch/pytorch.git
+	branch = de394b672d0346f2f387a8bb1a1280d5d2eaf9cb
