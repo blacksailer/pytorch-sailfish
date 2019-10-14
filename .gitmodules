@@ -1,59 +1,59 @@
 [submodule "pytorch"]
-	path = pytorch
 	url = https://github.com/pytorch/pytorch.git
-[submodule "pytorch/third_party/pybind11"]
+	path = pytorch
+[submodule "third_party/pybind11"]
     ignore = dirty
     path = pytorch/third_party/pybind11
     url = https://github.com/pybind/pybind11.git
-[submodule "pytorch/third_party/cub"]
+[submodule "third_party/cub"]
     ignore = dirty
     path = pytorch/third_party/cub
     url = https://github.com/NVlabs/cub.git
-[submodule "pytorch/third_party/eigen"]
+[submodule "third_party/eigen"]
     ignore = dirty
     path = pytorch/third_party/eigen
     url = https://github.com/eigenteam/eigen-git-mirror.git
-[submodule "pytorch/third_party/googletest"]
+[submodule "third_party/googletest"]
     ignore = dirty
     path = pytorch/third_party/googletest
     url = https://github.com/google/googletest.git
-[submodule "pytorch/third_party/benchmark"]
+[submodule "third_party/benchmark"]
     ignore = dirty
     path = pytorch/third_party/benchmark
     url = https://github.com/google/benchmark.git
-[submodule "pytorch/third_party/protobuf"]
+[submodule "third_party/protobuf"]
     ignore = dirty
     path = pytorch/third_party/protobuf
     url = https://github.com/protocolbuffers/protobuf.git
-[submodule "pytorch/third_party/ios-cmake"]
+[submodule "third_party/ios-cmake"]
     ignore = dirty
     path = pytorch/third_party/ios-cmake
     url = https://github.com/Yangqing/ios-cmake.git
-[submodule "pytorch/third_party/NNPACK"]
+[submodule "third_party/NNPACK"]
     ignore = dirty
     path = pytorch/third_party/NNPACK
     url = https://github.com/Maratyszcza/NNPACK.git
-[submodule "pytorch/third_party/gloo"]
+[submodule "third_party/gloo"]
     ignore = dirty
     path = pytorch/third_party/gloo
     url = https://github.com/facebookincubator/gloo
-[submodule "pytorch/third_party/NNPACK_deps/pthreadpool"]
+[submodule "third_party/NNPACK_deps/pthreadpool"]
     ignore = dirty
     path = pytorch/third_party/pthreadpool
     url = https://github.com/Maratyszcza/pthreadpool.git
-[submodule "pytorch/third_party/NNPACK_deps/FXdiv"]
+[submodule "third_party/NNPACK_deps/FXdiv"]
     ignore = dirty
     path = pytorch/third_party/FXdiv
     url = https://github.com/Maratyszcza/FXdiv.git
-[submodule "pytorch/third_party/NNPACK_deps/FP16"]
+[submodule "third_party/NNPACK_deps/FP16"]
     ignore = dirty
     path = pytorch/third_party/FP16
     url = https://github.com/Maratyszcza/FP16.git
-[submodule "pytorch/third_party/NNPACK_deps/psimd"]
+[submodule "third_party/NNPACK_deps/psimd"]
     ignore = dirty
     path = pytorch/third_party/psimd
     url = https://github.com/Maratyszcza/psimd.git
-[submodule "pytorch/third_party/zstd"]
+[submodule "third_party/zstd"]
     ignore = dirty
     path = pytorch/third_party/zstd
     url = https://github.com/facebook/zstd.git
@@ -61,63 +61,63 @@
     ignore = dirty
     path = pytorch/third_party/cpuinfo
     url = https://github.com/pytorch/cpuinfo.git
-[submodule "pytorch/third_party/python-enum"]
+[submodule "third_party/python-enum"]
     ignore = dirty
     path = pytorch/third_party/python-enum
     url = https://github.com/PeachPy/enum34.git
-[submodule "pytorch/third_party/python-peachpy"]
+[submodule "third_party/python-peachpy"]
     ignore = dirty
     path = pytorch/third_party/python-peachpy
     url = https://github.com/Maratyszcza/PeachPy.git
-[submodule "pytorch/third_party/python-six"]
+[submodule "third_party/python-six"]
     ignore = dirty
     path = pytorch/third_party/python-six
     url = https://github.com/benjaminp/six.git
-[submodule "pytorch/third_party/onnx"]
+[submodule "third_party/onnx"]
     ignore = dirty
     path = pytorch/third_party/onnx
     url = https://github.com/onnx/onnx.git
-[submodule "pytorch/third_party/onnx-tensorrt"]
+[submodule "third_party/onnx-tensorrt"]
     ignore = dirty
     path = pytorch/third_party/onnx-tensorrt
     url = https://github.com/onnx/onnx-tensorrt
-[submodule "pytorch/third_party/sleef"]
+[submodule "third_party/sleef"]
     ignore = dirty
     path = pytorch/third_party/sleef
     url = https://github.com/shibatch/sleef
-[submodule "pytorch/third_party/ideep"]
+[submodule "third_party/ideep"]
     ignore = dirty
     path = pytorch/third_party/ideep
     url = https://github.com/intel/ideep
-[submodule "pytorch/third_party/nccl/nccl"]
+[submodule "third_party/nccl/nccl"]
     ignore = dirty
     path = pytorch/third_party/nccl/nccl
     url = https://github.com/NVIDIA/nccl
-[submodule "pytorch/third_party/gemmlowp/gemmlowp"]
+[submodule "third_party/gemmlowp/gemmlowp"]
     ignore = dirty
     path = pytorch/third_party/gemmlowp/gemmlowp
     url = https://github.com/google/gemmlowp.git
-[submodule "pytorch/third_party/QNNPACK"]
+[submodule "third_party/QNNPACK"]
     ignore = dirty
     path = pytorch/third_party/QNNPACK
     url = https://github.com/pytorch/QNNPACK
-[submodule "pytorch/third_party/neon2sse"]
+[submodule "third_party/neon2sse"]
     ignore = dirty
     path = pytorch/third_party/neon2sse
     url = https://github.com/intel/ARM_NEON_2_x86_SSE.git
-[submodule "pytorch/third_party/fbgemm"]
+[submodule "third_party/fbgemm"]
     ignore = dirty
     path = pytorch/third_party/fbgemm
     url = https://github.com/pytorch/fbgemm
-[submodule "pytorch/third_party/foxi"]
+[submodule "third_party/foxi"]
     ignore = dirty
     path = pytorch/third_party/foxi
     url = https://github.com/houseroad/foxi.git
-[submodule "pytorch/third_party/tbb"]
+[submodule "third_party/tbb"]
 	path = pytorch/third_party/tbb
 	url = https://github.com/01org/tbb
 	branch = tbb_2018
 [submodule "android/libs/fbjni"]
     ignore = dirty
-    path = android/libs/fbjni
+    path = pytorch/android/libs/fbjni
     url = https://github.com/IvanKobzarev/fbjni.git
